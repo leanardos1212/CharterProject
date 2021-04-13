@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CharterProjectApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringAndReactApplication.class, args);
+        SpringApplication.run(CharterProjectApplication.class, args);
     }
 
 }
