@@ -1,0 +1,15 @@
+
+html, body, #react-mountpoint {
+    height: 100%;
+}
+
+input{
+    margin: 0 auto;
+}
+
+#main {
+    margin: 0 auto;
+    height: 100%;
+    width: 800px;
+}
+
