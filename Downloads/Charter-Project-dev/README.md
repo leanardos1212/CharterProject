@@ -1,6 +1,4 @@
-Charter Project 4-11-21
-Enrique Sampson# Charter-Project
-# Charter-Project
-# Charter-Project
-# Charter-Project
-# CharterProject4-11-21
+Charter Project
+Built with React and SpringBoot
+H2 in memory database
+SQL data file with static users/transactions
