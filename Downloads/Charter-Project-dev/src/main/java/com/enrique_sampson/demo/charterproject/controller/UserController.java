@@ -28,7 +28,7 @@ public class UserController {
 
 
 
-    private static int index=2;
+
 
     @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
@@ -38,7 +38,6 @@ public class UserController {
         Transaction createdTransaction = new Transaction();
         createdTransaction.setTotal(transaction);
         createdTransaction.setUser(createdUser);
-        createdTransaction.setId(index++);
         Set<Transaction> transactions = new HashSet<>();
         transactions.add(createdTransaction);
 
