@@ -12,3 +12,6 @@ insert into transaction(id, total, user_id) values (260, 32.32, 0);
 insert into transaction(id, total, user_id) values (202, 120.00, 101 );
 insert into transaction(id, total, user_id) values (213, 240.00, 101);
 insert into transaction(id, total, user_id) values (224, 120.00, 101);
+insert into transaction(id, total, user_id) values (300, 1.00, 101 );
+insert into transaction(id, total, user_id) values (400, 24.00, 101);
+insert into transaction(id, total, user_id) values (500, 650.00, 101);
