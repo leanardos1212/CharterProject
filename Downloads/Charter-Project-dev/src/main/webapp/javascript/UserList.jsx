@@ -30,12 +30,6 @@ class UserList extends Component {
                 <td>
                     {user.totalPurchases}
                 </td>
-                        <td key={transaction.id}>
-                {transaction.total}
-                  </td>
-                     <td>
-            {transaction.points}
-                </td>
             </tr>
             </React.Fragment>
                 ))}
